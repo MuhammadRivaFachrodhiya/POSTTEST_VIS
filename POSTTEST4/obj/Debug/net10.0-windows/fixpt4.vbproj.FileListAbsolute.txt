@@ -1,0 +1,17 @@
+C:\SMT4\PemVis\fixpt4\obj\Debug\net10.0-windows\fixpt4.FormUtama.resources
+C:\SMT4\PemVis\fixpt4\obj\Debug\net10.0-windows\fixpt4.FormKartu.resources
+C:\SMT4\PemVis\fixpt4\obj\Debug\net10.0-windows\fixpt4.vbproj.GenerateResource.cache
+C:\SMT4\PemVis\fixpt4\obj\Debug\net10.0-windows\fixpt4.GeneratedMSBuildEditorConfig.editorconfig
+C:\SMT4\PemVis\fixpt4\obj\Debug\net10.0-windows\fixpt4.AssemblyInfoInputs.cache
+C:\SMT4\PemVis\fixpt4\obj\Debug\net10.0-windows\fixpt4.AssemblyInfo.vb
+C:\SMT4\PemVis\fixpt4\obj\Debug\net10.0-windows\fixpt4.vbproj.CoreCompileInputs.cache
+C:\SMT4\PemVis\fixpt4\bin\Debug\net10.0-windows\fixpt4.exe
+C:\SMT4\PemVis\fixpt4\bin\Debug\net10.0-windows\fixpt4.deps.json
+C:\SMT4\PemVis\fixpt4\bin\Debug\net10.0-windows\fixpt4.runtimeconfig.json
+C:\SMT4\PemVis\fixpt4\bin\Debug\net10.0-windows\fixpt4.dll
+C:\SMT4\PemVis\fixpt4\bin\Debug\net10.0-windows\fixpt4.pdb
+C:\SMT4\PemVis\fixpt4\obj\Debug\net10.0-windows\fixpt4.dll
+C:\SMT4\PemVis\fixpt4\obj\Debug\net10.0-windows\refint\fixpt4.dll
+C:\SMT4\PemVis\fixpt4\obj\Debug\net10.0-windows\fixpt4.pdb
+C:\SMT4\PemVis\fixpt4\obj\Debug\net10.0-windows\fixpt4.genruntimeconfig.cache
+C:\SMT4\PemVis\fixpt4\obj\Debug\net10.0-windows\ref\fixpt4.dll
