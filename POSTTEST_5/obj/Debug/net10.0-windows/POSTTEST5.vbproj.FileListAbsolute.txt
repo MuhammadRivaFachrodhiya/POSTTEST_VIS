@@ -1,0 +1,6 @@
+C:\SMT4\PemVis\POSTTEST_5\obj\Debug\net10.0-windows\POSTTEST5.vbproj.AssemblyReference.cache
+C:\SMT4\PemVis\POSTTEST_5\obj\Debug\net10.0-windows\POSTTEST5.Admin.resources
+C:\SMT4\PemVis\POSTTEST_5\obj\Debug\net10.0-windows\POSTTEST5.Guest.resources
+C:\SMT4\PemVis\POSTTEST_5\obj\Debug\net10.0-windows\POSTTEST5.landingPage.resources
+C:\SMT4\PemVis\POSTTEST_5\obj\Debug\net10.0-windows\POSTTEST5.Login.resources
+C:\SMT4\PemVis\POSTTEST_5\obj\Debug\net10.0-windows\POSTTEST5.vbproj.GenerateResource.cache
