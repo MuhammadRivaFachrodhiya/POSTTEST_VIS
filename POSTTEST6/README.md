@@ -1,3 +1,6 @@
+# LINK KE GOOGLE DRIVE:
+### https://drive.google.com/drive/folders/1H4fQVb_3b-tb3qGu-L3bNNqDv0ELy8uc?usp=sharing
+
 # Manajemen Panitia pada Event MPL "Mobile Legends Bang Bang
 Profesional League"
 
